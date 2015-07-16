@@ -3,5 +3,5 @@
 void main(){
 	printf("test\n");
 
-	ksajdkljsakdljkalsjdkljakslj
+	printf("test1\n");
 }
