@@ -7,4 +7,6 @@ void main(){
 
 
 	printf("test2\n");
+
+	printf(error);
 }
