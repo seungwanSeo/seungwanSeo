@@ -11,4 +11,7 @@ void main(){
 
 	printf("test3\n");
 
+
+	printf("test4\n");
+
 }
